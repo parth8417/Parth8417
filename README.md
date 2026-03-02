@@ -137,7 +137,6 @@ Modern and responsive vegetarian food ordering platform.
 | Advanced React Patterns | Hooks, Context API, Redux | 🟢🟢🟢🟢⚪️ |
 | Backend Optimization | Node.js Performance, Caching | 🟢🟢🟢⚪️⚪️ |
 | Cloud & Deployment | AWS, Docker, CI/CD | 🟢🟢⚪️⚪️⚪️ |
-| TypeScript | Type Safety, Best Practices | 🟢🟢🟢🟢⚪️ |
 
 </div>
 
