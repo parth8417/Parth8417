@@ -16,17 +16,24 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 I'm a passionate **Full-Stack Developer** and **IT student** specializing in building modern, responsive, and scalable web applications. I thrive on turning complex problems into elegant solutions and creating seamless user experiences.
 
 - 🔭 Currently working on **HireSpot** - A comprehensive job portal platform
 - 🌱 Continuously learning and exploring new technologies in the **MERN Stack**
 - 💡 Interested in **Web Development**, **UI/UX Design**, and **Backend Architecture**
 - 🎯 Goal: Contribute to impactful open-source projects and build products that matter
+- 💼 Open to freelance projects and collaboration opportunities
 - ⚡ Fun fact: I believe great code is like poetry - elegant, efficient, and expressive
+
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,25 +56,55 @@ I'm a passionate **Full-Stack Developer** and **IT student** specializing in bui
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
+</div>
+
 ---
 
 ## 🚀 Featured Projects
 
-### 💼 [HireSpot - Job Portal Platform](https://github.com/parth8417/hirespot)
-A comprehensive job portal connecting employers and job seekers with advanced features.
-- ✨ **Tech Stack:** React, Node.js, Express, MongoDB
-- 🔐 Secure authentication system with role-based access control
-- 👤 Separate admin panel for managing jobs and users
-- 📱 Fully responsive design for seamless mobile experience
-- 🔍 Advanced job search and filtering capabilities
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🍕 [Food Store Website](https://github.com/parth8417/foodstore)
+### 💼 HireSpot - Job Portal Platform
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parth8417/hirespot)
+
+A comprehensive job portal connecting employers and job seekers with advanced features.
+
+**🛠️ Tech Stack:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+**✨ Key Features:**
+- 🔐 Secure authentication with role-based access
+- 👤 Separate admin panel for management
+- 📱 Fully responsive design
+- 🔍 Advanced job search and filters
+
+</td>
+<td width="50%" valign="top">
+
+### 🍕 Food Store Website
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parth8417/foodstore)
+
 Modern and responsive vegetarian food ordering platform.
-- ✨ **Tech Stack:** React, CSS3, JavaScript
+
+**🛠️ Tech Stack:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**✨ Key Features:**
 - 🛒 Dynamic shopping cart with real-time updates
 - 💳 Integrated checkout system
-- 🎨 Clean and intuitive UI/UX design
+- 🎨 Clean and intuitive UI/UX
 - 📦 Product categorization and filtering
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -85,56 +122,51 @@ Modern and responsive vegetarian food ordering platform.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=parth8417&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 [![Parth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=parth8417&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 💼 What I Can Help With
+## 📚 What I'm Currently Learning
 
-```javascript
-const parth = {
-    code: ["JavaScript", "HTML", "CSS", "SQL"],
-    technologies: {
-        frontEnd: {
-            frameworks: ["React", "Next.js"],
-            styling: ["CSS3", "Tailwind CSS", "Bootstrap"]
-        },
-        backEnd: {
-            runtime: ["Node.js"],
-            frameworks: ["Express.js"],
-            databases: ["MongoDB"]
-        },
-        tools: ["Git", "GitHub", "VS Code", "Figma", "Postman"],
-        design: ["UI/UX", "Responsive Design", "Wireframing"]
-    },
-    currentFocus: "Building scalable full-stack applications",
-    funFact: "I debug with console.log() and I'm proud of it!"
-};
-```
+<div align="center">
+
+| 🎯 Focus Area | 🔧 Technologies | 🏆 Progress |
+|---|---|---|
+| Advanced React Patterns | Hooks, Context API, Redux | 🟢🟢🟢🟢⚪️ |
+| Backend Optimization | Node.js Performance, Caching | 🟢🟢🟢⚪️⚪️ |
+| Cloud & Deployment | AWS, Docker, CI/CD | 🟢🟢⚪️⚪️⚪️ |
+| TypeScript | Type Safety, Best Practices | 🟢🟢🟢🟢⚪️ |
+
+</div>
 
 ---
 
 ## 🌟 Core Competencies
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Development Skills
 - 🎯 **Full-Stack Development** - End-to-end web application development
 - 🎨 **Responsive Design** - Mobile-first, cross-browser compatible interfaces
 - 🔐 **Authentication & Security** - JWT, OAuth, secure user management
 - 🗃️ **Database Design** - Efficient schema design and query optimization
-- 🚀 **RESTful APIs** - Building and consuming scalable backend services
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Technical Expertise
+- 🌐 **RESTful APIs** - Building and consuming scalable backend services
 - 🧪 **Version Control** - Git workflow, branching strategies, code reviews
 - 🎭 **UI/UX Design** - Creating intuitive and engaging user interfaces
+- ⚡ **Performance Optimization** - Fast loading times and efficient code
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -144,19 +176,24 @@ const parth = {
 
 I'm always open to interesting conversations and collaboration opportunities!
 
+**💼 Professional Links**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-panchal-665990322/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthpanchal5447@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parth8417)
 
+**🤝 Open For**
+
+![Freelance](https://img.shields.io/badge/Freelance%20Work-Available-success?style=flat-square)
+![Collaboration](https://img.shields.io/badge/Collaboration-Open-blue?style=flat-square)
+![Hiring](https://img.shields.io/badge/Job%20Opportunities-Interested-orange?style=flat-square)
+
 ---
 
-### 💭 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
+💡 **"The only way to do great work is to love what you do."** - Steve Jobs
 
 <img src="https://komarev.com/ghpvc/?username=parth8417&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
-**⭐ From [parth8417](https://github.com/parth8417) | "Clean code is not written by following a set of rules. Clean code is written by a skilled programmer using discipline."**
+**⭐ From [parth8417](https://github.com/parth8417)**
 
 </div>
