@@ -110,17 +110,19 @@ Modern and responsive vegetarian food ordering platform.
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parth8417&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=parth8417&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=parth8417&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=parth8417&theme=tokyonight&hide_border=true" height="170"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth8417&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+</p>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth8417&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-
-</div>
+---
 
 ---
 
